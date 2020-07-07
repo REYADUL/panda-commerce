@@ -18,3 +18,43 @@
 .container{
     margin-bottom: 100px;
 }
+.cat1{
+    background-color: orange;
+    padding:10px 30px;
+    border-radius: 10px;
+
+}
+.cat2{
+    background-color: palevioletred;
+    padding:10px 30px;
+    border-radius: 10px;
+}
+.cat3{
+    background-color: blueviolet;
+    padding:10px 30px;
+    border-radius: 10px;
+}
+.catagories h1{
+   color: whitesmoke;
+}
+.catagories img{
+    width:100px;
+}
+.card{
+    border-radius: 10px;
+    border:none;
+    box-shadow: 5px 5px 10px lightgreen;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color:gray;
+}
+footer{
+    text-align: center;
+}
